@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacultyProfile</string>
+    <string name="name_faculty">name_faculty</string>
+    <string name="name_description">name_description</string>
+    <string name="short_description">short_description</string>
+    <string name="profil_fakultas_upn">PROFIL FAKULTAS UPN</string>
+</resources>
